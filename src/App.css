@@ -10,4 +10,5 @@ body {
   border: 1px solid #efefef;
   background-color: white;
   color: #181818;
+  user-select: none;
 }
